@@ -13,7 +13,7 @@ Una hermosa animación 3D de partículas en forma de corazón dedicada a Itzia.
 
 ## 🚀 Demo en Vivo
 
-[Ver Demo](https://tu-usuario.github.io/para-itzia/)
+[Ver Demo](https://jass0228.github.io/para-itzia/)
 
 ## 💻 Tecnologías
 
